@@ -25,7 +25,7 @@ In summary, this exploratory analysis seeks to clarify some of the reasons aroun
 
 The used information was provided by the academic institution Soy Henry, located in Argentina.
 - [Original dataset](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AccidentesAviones.csv)
-- Generated dataset
+- [Generated dataset](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AircraftAccidentsFinalF.csv)
 
  uses the next parts of the original data source: date, operator, crew aboard, crew fatalities. The process will use averages, totals, operator type (and subsequently flight type, as civilian or military) and number of flights. This study discards information like zone, time, aicraft type, passengers aboard, passenger fatalities, total fatalities.
 
