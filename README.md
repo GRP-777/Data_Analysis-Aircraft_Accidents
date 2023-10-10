@@ -3,10 +3,10 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Datasets](#datasets)
-3. [Dictionary](#dictionary)
-4. [EDA and ETL](#eda-and-etl)
-5. [Dashboards](#dashboards)
-6. [Professional Contact](#contact)
+3. [EDA and ETL](#eda-and-etl)
+4. [Dashboards](#dashboards)
+5. [Professional Contact](#contact)
+6. [Disclaimer](#disclaimer)
   
 
 ## Introduction and Context <a name="introduction"></a>
@@ -27,6 +27,12 @@ The used information was provided by the academic institution Soy Henry, located
 - [Original dataset](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AccidentesAviones.csv)
 - [Generated dataset](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AircraftAccidentsFinalF.csv)
 
+
+
+
+
+Disclaimer
+De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
  uses the next parts of the original data source: date, operator, crew aboard, crew fatalities. The process will use averages, totals, operator type (and subsequently flight type, as civilian or military) and number of flights. This study discards information like zone, time, aicraft type, passengers aboard, passenger fatalities, total fatalities.
 
 
