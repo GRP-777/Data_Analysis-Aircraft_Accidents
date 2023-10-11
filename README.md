@@ -1,3 +1,6 @@
+![Aicraft accident](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/77bfc388-ab09-4e88-8c54-0b02239110d8)
+Copyright info:
+Public Domain
 
 
 # Data Analysis: Aircraft Accidents
