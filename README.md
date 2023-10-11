@@ -1,6 +1,7 @@
-![Aicraft accident](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/77bfc388-ab09-4e88-8c54-0b02239110d8)
-Copyright info:
-Public Domain
+![fairchild-c-82-packet-destroyed-in-naca-crash-fire-tests-cdda12-1024](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/67e833a0-0b64-4e6b-976d-6296ec4766b6)
+
+
+Copyright: Public Domain Dedication (CC0)
 
 
 # Data Analysis: Aircraft Accidents
