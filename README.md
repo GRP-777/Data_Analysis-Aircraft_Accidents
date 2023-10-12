@@ -4,7 +4,7 @@
 Copyright: Public Domain Dedication (CC0)
 
 
-# Data Analysis: Aircraft Accidents
+# Data Analysis: Aircraft Accidents, Two Compared Decades
 
 ## Table of Contents
 1. [Disclaimer](#disclaimer)
@@ -80,13 +80,6 @@ Plot and line graphing. This topic it's better displayed in the next Dashboard s
 ## Dashboard <a name="dashboard"></a>
 
 Link to the Tableau presentation [here](https://public.tableau.com/views/DataAnalysis-AircraftAccidentsGRP/CONCLUSIONS?:language=es-ES&:display_count=n&:origin=viz_share_link).
-
-![1 Front page](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/9873d17c-520b-4b43-a744-4ac7598f800c)
-![2 Analysis questions](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/1d98f92f-9c63-4954-aaf4-73b64e2fbc6b)
-![3 KPI 1](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/0574612d-052b-4ebe-9a22-1bab7e2e15fd)
-![4 KPI 2](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/b96f9262-db39-4777-8c87-decfcb0f0f81)
-![5 Results](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/8955e2d5-197d-49a6-afc6-1a45d4af472d)
-![6 Conclusions](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/71446c44-5f5a-49fe-934d-e2f892f1ce95)
 
 
 
