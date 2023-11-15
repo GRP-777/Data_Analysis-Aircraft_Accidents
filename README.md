@@ -79,7 +79,9 @@ Plot and line graphing. This topic it's better displayed in the next Dashboard s
 
 ## Dashboard <a name="dashboard"></a>
 
-Link to the Tableau presentation [here](https://public.tableau.com/views/DataAnalysis-AircraftAccidentsGRP/CONCLUSIONS?:language=es-ES&:display_count=n&:origin=viz_share_link).
+Link to the Tableau presentation [here](https://public.tableau.com/views/DataAnalysis-AircaftAccidentsDashboard/DASHBOARD1?:language=es-ES&:display_count=n&:origin=viz_share_link).
+
+![Tableau_Project_2](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/assets/132501854/49a4644b-8518-4b16-be1e-a0ea6826a86b)
 
 
 
