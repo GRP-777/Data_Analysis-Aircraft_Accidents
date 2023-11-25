@@ -43,7 +43,7 @@ The used information was provided by the academic institution Soy Henry, located
 
 ## Extract Transform Load<a name="etl"></a>
 
-Acces to the Notebook → [ETL and EDA](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AA_ETL_EDA_Notebook.ipynb)
+Acces to the Notebook → [ETL](https://github.com/GRP-777/Data_Analysis-Aircraft_Accidents/blob/master/AA_ETL_EDA_Notebook.ipynb)
 
 Work stages:
 - Transform null
@@ -51,8 +51,7 @@ Work stages:
 - Create a 'Season' column, based on another 'Month' column also generated
 - Drop columns with mostly only NaN
 - Create 'Country' column derivated from the 'Route' column
-
-## Exploratory Data Analysis <a name="eda"></a>
+- 
 
 First analysis attempt for KPI #2: accidents related in 'Aircraft Type'
 - Check null values in 'Aircraft Type'
